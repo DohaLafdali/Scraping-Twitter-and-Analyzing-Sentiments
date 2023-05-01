@@ -12,10 +12,10 @@ Les bibliothèques Python suivantes : pandas, numpy, matplotlib, nltk, sklearn
 </ul>
 <h3>collecte de données</h3>
 Le script de web scraping Selenium permet de collecter les tweets à partir de Twitter. Cependant, Twitter impose des limites et des restrictions sur l'utilisation de son API, il est donc important de respecter les politiques de Twitter lors de la collecte des données.
-<h3>Références</h3>
-<li>
 <h3>Analyse des sentiments</h3>
-Deux approches sont utilisées pour analyser les sentiments des tweets : l'approche basée sur les lexiques et l'approche basée sur l'apprentissage automatique avec SVM. Les tweets sont classés en fonction de leur sentiment : <i>positif, négatif ou neutre.</i>
+Deux approches sont utilisées pour analyser les sentiments des tweets : l'approche basée sur les lexiques et l'approche basée sur l'apprentissage automatique avec SVM. Les tweets sont classés en fonction de leur sentiment : <i>positif, négatif ou neutre
+
+<h3>Références</h3>
 Scikit-learn : https://scikit-learn.org/</li>
 <li>Pandas : https://pandas.pydata.org/</li>
 <li>Selenium : https://www.selenium.dev/</li>
