@@ -13,7 +13,7 @@ Les bibliothèques Python suivantes : pandas, numpy, matplotlib, nltk, sklearn
 <h3>collecte de données</h3>
 Le script de web scraping Selenium permet de collecter les tweets à partir de Twitter. Cependant, Twitter impose des limites et des restrictions sur l'utilisation de son API, il est donc important de respecter les politiques de Twitter lors de la collecte des données.
 <h3>Références</h3>
-li>
+<li>
 Scikit-learn : https://scikit-learn.org/</li>
 <li>Pandas : https://pandas.pydata.org/</li>
 <li>Selenium : https://www.selenium.dev/</li>
